@@ -1,0 +1,42 @@
+
+.bpw-from-user .bpw-chat-bubble .bpw-chat-bubble-content {
+    background-color: #2095d4; /* Light blue background color */
+    color: #025ca7; /* Dark blue font color */
+}
+
+a {
+    color: #ffffff; /* White font color */
+}
+
+a:hover {
+    color: #cccccc; /* Light gray font color when hovered over */
+}
+
+.bpw-send-button {
+    /* Here you can adjust appearance and position */
+    background-color: #025ca7; /* Dark blue background color */
+    color: #ffffff; /* White font color */
+}
+
+.bpw-card-action {
+    font-weight: bold; /* Bold text */
+    color: #ffffff; /* White font color */
+    /* Here you can adjust the border */
+}
+
+.bpw-keyboard-quick_reply {
+    background-color: #025ca7; /* Dark blue background color */
+    /* Here you can adjust the padding */
+}
+
+.bpw-button {
+    /* Here you can adjust the appearance and font */
+    background-color: #025ca7; /* Dark blue background color */
+    color: #ffffff; /* White font color */
+}
+
+.bpw-widget-btn {
+    /* Here you can adjust the appearance and background image */
+    background-color: #025ca7; /* Dark blue background color */
+    color: #ffffff; /* White font color */
+}
