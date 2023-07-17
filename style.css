@@ -1,0 +1,59 @@
+.bpw-layout {
+    /* Here you can adjust height, position, border, border-radius, and z-index */
+    /* Adding a background color for the chat input area and the chat area */
+    background-color: #ffffff;
+}
+
+.bpw-header-title {
+    color: #ffffff; /* White font color */
+}
+
+.bpw-from-bot .bpw-chat-bubble .bpw-chat-bubble-content {
+    background-color: #025ca7; /* Dark blue background color */
+    color: #ffffff; /* White font color */
+    font-weight: bold; /* Bold text */
+}
+
+.bpw-header-icon {
+    fill: #ffffff; /* White fill color when hovered over */
+}
+
+.bpw-header-container {
+    /* Here you can adjust border, and border-radius */
+    background-color: #025ca7; /* Dark blue background color */
+}
+
+.bpw-from-user .bpw-chat-bubble .bpw-chat-bubble-content {
+    background-color: #2095d4; /* Light blue background color */
+    color: #025ca7; /* Dark blue font color */
+}
+
+
+.bpw-send-button {
+    /* Here you can adjust appearance and position */
+    background-color: #025ca7; /* Dark blue background color */
+    color: #ffffff; /* White font color */
+}
+
+.bpw-card-action {
+    font-weight: bold; /* Bold text */
+    color: #ffffff; /* White font color */
+    /* Here you can adjust the border */
+}
+
+.bpw-keyboard-quick_reply {
+    background-color: #025ca7; /* Dark blue background color */
+    /* Here you can adjust the padding */
+}
+
+.bpw-button {
+    /* Here you can adjust the appearance and font */
+    background-color: #025ca7; /* Dark blue background color */
+    color: #ffffff; /* White font color */
+}
+
+.bpw-widget-btn {
+    /* Here you can adjust the appearance and background image */
+    background-color: #025ca7; /* Dark blue background color */
+    color: #ffffff; /* White font color */
+}
