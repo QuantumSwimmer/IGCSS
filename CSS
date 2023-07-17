@@ -14,7 +14,7 @@
     font-weight: bold; /* Bold text */
 }
 
-.bpw-header-icon:hover {
+.bpw-header-icon {
     fill: #ffffff; /* White fill color when hovered over */
 }
 
@@ -28,13 +28,6 @@
     color: #025ca7; /* Dark blue font color */
 }
 
-a {
-    color: #ffffff; /* White font color */
-}
-
-a:hover {
-    color: #cccccc; /* Light gray font color when hovered over */
-}
 
 .bpw-send-button {
     /* Here you can adjust appearance and position */
